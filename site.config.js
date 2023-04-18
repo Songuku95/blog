@@ -1,10 +1,10 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "duykhanh",
-    image: "https://avatars.githubusercontent.com/u/9360548", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "backend developer",
-    bio: "I develop everything using Go + Python.",
+    name: "Duy Khánh Nguyễn",
+    image: "/goku.jpg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    role: "developer",
+    bio: "lang thang mọi nơi",
     email: "duykhanhuet@gmail.com",
     linkedin: "",
     github: "",
@@ -12,14 +12,14 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `lamgicogi`,
-      href: "https://github.com/",
+      name: `Shopee Food`,
+      href: "https://shopeefood.vn/",
     },
   ],
   // blog setting (required)
   blog: {
     title: "Duy Khanh Blog",
-    description: "welcome to this blog!",
+    description: "chào mọi người",
     theme: "auto", // ['light', 'dark', 'auto']
   },
 
